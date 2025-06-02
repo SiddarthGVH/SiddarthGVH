@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siddarth
-- 👀 I’m interested in Devloping neural networks,AI, ML, Application development.
-- 🌱 I’m currently learning Data Structures & Algorithms, Java projects.
-- 💞️ I’m looking to collaborate on creative projects, beginner-friendly Java or Python-based real-time applications.
-- 📫 How to reach me:Email: siddarthgvh@gmail.com 
-- 😄 Pronouns: He/Him
+- Hi, I’m @Siddarth
+- I’m interested in Devloping neural networks,AI, ML, Application development.
+- I’m currently learning Data Structures & Algorithms, Java projects.
+-  I’m looking to collaborate on creative projects, beginner-friendly Java or Python-based real-time applications.
+-  How to reach me:Email: siddarthgvh@gmail.com 
+-  Pronouns: He/Him
 
 
